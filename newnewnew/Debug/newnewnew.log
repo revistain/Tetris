@@ -1,0 +1,14 @@
+﻿  소스.c
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(7,1): warning C4005: 'WIDTH': 매크로 재정의
+C:\Users\pc\source\repos\newnewnew\newnewnew\헤더.h(2): message : 'WIDTH'의 이전 정의를 참조하십시오.
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(27,17): warning C4020: 'TimeLapse': 실제 매개 변수가 너무 많습니다.
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(18,1): warning C4133: '초기화 중': 'int *'과(와) 'Block *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(43,1): warning C4133: '초기화 중': 'int *'과(와) 'Block *' 사이의 형식이 호환되지 않습니다.
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(121,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(123,22): warning C4048: 배열 첨자가 다릅니다. 'int (*)[40]'과(와) 'int (*)[20]'
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(135,26): warning C4048: 배열 첨자가 다릅니다. 'int (*)[40]'과(와) 'int (*)[20]'
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(144,24): warning C4048: 배열 첨자가 다릅니다. 'int (*)[40]'과(와) 'int (*)[20]'
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(146,20): warning C4020: 'StopBlock': 실제 매개 변수가 너무 많습니다.
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(163,1): warning C4029: 선언된 정식 매개 변수 목록이 정의와 다릅니다.
+C:\Users\pc\source\repos\newnewnew\newnewnew\소스.c(215,35): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+  newnewnew.vcxproj -> C:\Users\pc\source\repos\newnewnew\Debug\newnewnew.exe
