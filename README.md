@@ -1,5 +1,4 @@
 # Tetris
-my First-made program
 
 2021 4월 작
 C언어 기초문법 다 떼고 코딩 공부에 대한 흥미를 잃어서
